@@ -1,9 +1,10 @@
 ---
 layout: default
-nav_exclude: true
+title: Homepage
+nav_order: 1
 ---
 
-# Campaign Wiki
+# Homepage
 Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign!
 
 
