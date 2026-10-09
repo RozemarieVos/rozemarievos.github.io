@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: 🚀 Quick Start With GitHub Pages
 nav_order: 1
@@ -29,4 +29,4 @@ And that's it!
 
 There are more configuration options explained in the rest of this theme
 documentation, or if you prefer it you can have a look at the
-[_config.yml file used to generate this website](https://github.com/carlosperate/jekyll-theme-rtd/blob/main/docs/_config.yml).
+[_config.yml file used to generate this website](https://github.com/carlosperate/jekyll-theme-rtd/blob/main/docs/_config.yml). -->

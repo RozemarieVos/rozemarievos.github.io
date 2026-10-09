@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Theme Configuration
 nav_order: 2
@@ -154,4 +154,4 @@ extra_javascript:
   - assets/js/my_custom_file.js
 extra_css:
   - assets/css/my_custom_file.css
-```
+``` -->

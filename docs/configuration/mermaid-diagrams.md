@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Mermaid Diagrams
 nav_order: 4
@@ -353,4 +353,4 @@ BiRel(customerA, SystemAA, "Uses")
 BiRel(SystemAA, SystemE, "Uses")
 Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
 Rel(SystemC, customerA, "Sends e-mails to")
-```
+``` -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Additional Markdown Features
 nav_order: 1
@@ -189,4 +189,4 @@ Wrapping in `*...*` gives Kramdown an `<em>` element to attach the attribute:
 ### My Feature *New*{: .label .label-green }
 ```
 
-> ### My Feature *New*{: .label .label-green }
+> ### My Feature *New*{: .label .label-green } -->

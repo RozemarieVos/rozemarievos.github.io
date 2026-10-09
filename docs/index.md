@@ -3,9 +3,11 @@ layout: default
 nav_exclude: true
 ---
 
-# Read The Docs Theme for Jekyll & GitHub Pages
+# Campaign Wiki
+Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign!
 
-This is a port of the
+
+<!-- This is a port of the
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
 [Jekyll](https://jekyllrb.com/), specifically developed be used with
 [GitHub Pages](https://jekyllrb.com/docs/github-pages/).
@@ -84,4 +86,4 @@ labels, and any known issues are listed with the
 [bug](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 label.
 
-Contributions are very welcomed!
+Contributions are very welcomed! -->

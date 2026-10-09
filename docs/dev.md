@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Developer Docs
 nav_order: 3
@@ -117,4 +117,4 @@ contributors are expected to adhere to the
 ## ⚖️ License
 
 Information about the license can be found in the
-[repository README file](https://github.com/carlosperate/jekyll-theme-rtd/#%EF%B8%8F-license).
+[repository README file](https://github.com/carlosperate/jekyll-theme-rtd/#%EF%B8%8F-license). -->

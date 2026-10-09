@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: What is All This? (FAQs)
 nav_order: 4
@@ -73,4 +73,4 @@ Is there a useful feature missing that you would like to see in this theme?
 ## Any Other Questions?
 
 If you have any other questions, please
-[open a new issue in the theme GitHub repository](https://github.com/carlosperate/jekyll-theme-rtd/issues/new).
+[open a new issue in the theme GitHub repository](https://github.com/carlosperate/jekyll-theme-rtd/issues/new). -->

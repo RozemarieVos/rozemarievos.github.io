@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Debug Config
 nav_order: 5
@@ -109,4 +109,4 @@ want to share publicly** when enabled:
 - **Full config dump** — `site | inspect` shows every value in `_config.yml`,
   which may include API keys or tokens if misconfigured.
 
-**Always disable or remove the file before deploying to production.**
+**Always disable or remove the file before deploying to production.** -->

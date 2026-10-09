@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Changelog
 nav_order: 5
@@ -79,4 +79,4 @@ nav_order: 5
 
 ## v1.0.0  (2026-02-25)
 
-Initial stable release.
+Initial stable release. -->

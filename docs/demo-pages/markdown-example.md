@@ -1,4 +1,4 @@
----
+<!-- ---
 # This example file is based on index-test.md from Just the Docs Jekyll Theme.
 # Original file copyright (c) 2016 Patrick Marsceill:
 # https://github.com/pmarsceill/just-the-docs/blob/v0.2.7-r/docs/index-test.md
@@ -247,4 +247,4 @@ Note right of John: Rational thoughts!
 John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
-```
+``` -->

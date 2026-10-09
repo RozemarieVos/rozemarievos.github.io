@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Pages Configuration
 nav_order: 3
@@ -90,4 +90,4 @@ twitter: handle
 # Default: Unset
 date_last_modified: 2025-01-01
 ---
-```
+``` -->
