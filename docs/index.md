@@ -7,6 +7,8 @@ nav_order: 1
 # Homepage
 Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign!
 
+![Ardhuin regio](assets/img/Ardhuin%20regio%2028-08.jpg)
+
 
 <!-- This is a port of the
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
