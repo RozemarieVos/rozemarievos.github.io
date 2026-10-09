@@ -1,20 +1,27 @@
-# Read The Docs Theme for Jekyll and GitHub Pages
+---
+layout: default
+nav_exclude: true
+---
 
-Port of the Read the Docs theme to Jekyll that can be used with GitHub Pages.
+# Read The Docs Theme for Jekyll & GitHub Pages
 
-The [theme documentation](https://carlosperate.github.io/jekyll-theme-rtd) is
-also the live demo:
+This is a port of the
+[Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
+[Jekyll](https://jekyllrb.com/), specifically developed be used with
+[GitHub Pages](https://jekyllrb.com/docs/github-pages/).
 
-[![theme screenshot](docs/assets/img/screenshot.png)](https://carlosperate.github.io/jekyll-theme-rtd)
+> [!NOTE]
+> You are previewing 👀 the theme right now as you navigate this documentation!
 
-The original [Read The Docs](https://sphinx-rtd-theme.readthedocs.io)
-theme was created for [Sphinx](https://www.sphinx-doc.org/), and so it is
-designed specifically for documentation.
+![screenshot](assets/img/screenshot.png)
+
+The original [Read The Docs](https://readthedocs.org)
+[theme](https://sphinx-rtd-theme.readthedocs.io) was created for the
+[Sphinx](https://www.sphinx-doc.org/) documentation generator, and so it is
+designed specifically for docs.
+
 Combined with [GitHub Pages](https://pages.github.com) it's a great and easy
-way to document your projects.
-
-Check out the [🚀 quick start guide](https://carlosperate.github.io/jekyll-theme-rtd/quickstart.html)
-to see how easy it is to get started!
+way to document your projects!
 
 Features:
 
@@ -36,6 +43,23 @@ Features:
 - 🔎 SEO friendly meta tags and canonical URLs
 - 🧑‍💻 TODO 🧑‍💻: 🧮 Mathematical expressions rendering
 
+## What Can You Find Around Here
+
+- Check out the [Quick Start Guide](quickstart.md)
+  to get up and running.
+- If some of the terms thrown around here don't make a lot of sense, check out
+  the [What is All This? (FAQs)](faqs.md) page.
+- To find out more about all the theme available options see the
+  [Theme Configuration](configuration/configyml.md)
+  and the [Pages Configuration](configuration/frontmatter.md)
+  pages.
+- The Demo Pages contain generic content to showcase how the standard Markdown
+  and [additional features](configuration/markdown-extra.md)
+  are rendered with this theme.
+- The [Debug Config](configuration/debug.md)
+  page documents a utility file you can copy into your site to inspect every
+  Jekyll & Liquid variable at build time.
+
 ## 🧑‍💻 Work in Progress!
 
 New features are still being developed but the theme is already usable and
@@ -49,7 +73,7 @@ settings will be released a minor revisions (i.e. `v1.1`, `v1.2`, etc).
 
 So, it is recommended to lock the theme version in the `_config.yml` file:
 
-```yml
+```yaml
 remote_theme: carlosperate/jekyll-theme-rtd@v1.4.0
 ```
 
@@ -61,27 +85,3 @@ labels, and any known issues are listed with the
 label.
 
 Contributions are very welcomed!
-
-## 👨‍👩‍👧‍👦 Contributing
-
-Bug reports and pull requests are welcome on GitHub at
-https://github.com/carlosperate/jekyll-theme-rtd.
-
-For information about contributing, see the
-[developer documentation](https://carlosperate.github.io/jekyll-theme-rtd/dev.html).
-
-This project is intended to be a safe, welcoming space for collaboration, and
-contributors are expected to adhere to the
-[Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## ⚖️ License
-
-This theme is based on the [MkDocs](https://github.com/mkdocs/mkdocs)
-[`readthedocs` port](https://github.com/mkdocs/mkdocs/tree/1.6.1/mkdocs/themes/readthedocs).
-Copyright © 2014, Tom Christie, all rights reserved, and released under the
-[BSD 2-Clause "Simplified" License](LICENSE).
-
-The theme modifications to port it to Jekyll can be seen
-[in this diff](https://github.com/carlosperate/jekyll-theme-rtd/compare/dddce9f13fde24c03aee4533158c43091120d47e...main),
-and this project is also released under the
-[BSD 2-Clause "Simplified" License](LICENSE).
