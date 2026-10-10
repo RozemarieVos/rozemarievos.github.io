@@ -8,6 +8,7 @@ nav_order: 2
   h5 { margin-bottom: 0.2em !important; }
   h5 + p { margin-top: 0 !important; }
 </style>
+# Extra regels
 
 ##### Rule of Cool
 Deze regel staat boven alle andere regels: als wij een idee/actie heel cool vinden (en als het enigszins realistisch is), mag je het proberen. Ook al is het technisch gezien niet mogelijk volgens de regels.

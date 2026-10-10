@@ -7,7 +7,14 @@ nav_order: 1
 # Homepage
 Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign!
 
+## Wereldkaart
 ![Ardhuin regio](assets/img/Ardhuin%20regio%2028-08.jpg)
+
+## Documenten
+[Regels:](docs/Extra%regels.md) hier staan alle custom regels die we gebruiken.
+
+[Session 0 informatie:](docs/Session%0.md) dit is de informatie die ik gegeven heb tijdens session 0. Dit bestand is niet up to date met nieuwe toevoegingen.
+
 
 
 <!-- This is a port of the

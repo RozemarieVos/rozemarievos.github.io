@@ -8,7 +8,7 @@ nav_order: 3
   h5 { margin-bottom: 0.2em !important; }
   h5 + p { margin-top: 0 !important; }
 </style>
-
+# Session 0
 ## Algemeen
 ##### Setting
 cookie cutter D&D setting: je kan uit alle races en classes kiezen, magie is veel aanwezig, de wereld is al wat ouder: er is al een established pantheon (nog niet helemaal af). Op het eiland, Ardhuin, waar we iig voorlopig zitten en beginnen met de campaign, is er veel magie icm de natuur (de natuur is daar ongerept en kan gevaarlijk zijn). Ook zijn er op Ardhuin restanten te vinden van een antiek (ancient) rijk. Er zijn 2 soorten artefacten/items op Ardhuin tot dusver ontdekt: (magische) items die met de natuur (en natuurculturen) te maken hebben en (magische) items die van dat antieke rijk komen. Ook een combinatie van de twee is mogelijk.
