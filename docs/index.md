@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Homepage
-Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign!
+Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign! Deze week komt er nog meer informatie!
 
 ## Wereldkaart
 ![Ardhuin regio](assets/img/Ardhuin%20regio%2028-08.jpg)
