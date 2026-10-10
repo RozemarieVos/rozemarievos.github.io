@@ -4,10 +4,16 @@ title: Regels
 nav_order: 2
 ---
 
+<style>
+  h5 { margin-bottom: 0.2em !important; }
+  h5 + p { margin-top: 0 !important; }
+</style>
+
 ##### Rule of Cool
 Deze regel staat boven alle andere regels: als wij een idee/actie heel cool vinden (en als het enigszins realistisch is), mag je het proberen. Ook al is het technisch gezien niet mogelijk volgens de regels.
 
-### Algemeen
+
+## Algemeen
 ##### Extra feat
 Je mag een extra feat nemen bij het maken van je karakter, deze feat sluit aan op je backstory.
 
@@ -30,7 +36,8 @@ Bij sommige skill checks kan het verschillen hoe succes eruit ziet, ik geef dan 
 ##### Group rolls
 Bij een group roll (zoals gezamenlijke stealth check) halen jullie de DC als jullie gemiddelde gelijk of hoger is aan de DC. Net zoals de rest van de berekeningen bij D&D, ronden we af naar beneden.
 
-### Combat
+
+## Combat
 ##### Potions
 Een potion gebruiken is een bonus action, dan gooi je voor HP. Als je een action gebruikt krijg je maximale HP voor de potion. Als je 'm toedient aan een ander kost dat een action en moet je gooien voor HP.
 
@@ -50,7 +57,10 @@ Als je geen spell slots meer hebt, kan je toch proberen je spell te casten. Je d
 Ik vraag aan de speler die net te laag gegooid heeft voor wat die moest bereiken, of diegene wil onderhandelen. De speler kan dan iets aanbieden aan de DM (iets wat van belang is voor het verhaal) waardoor die een fail in een success kan veranderen. Voorbeeld: bij een DC 18 en de speler gooit 17: "wat heb je over om van je 17 een 18 te maken?"
 Dit is alleen in heel zeldzame gevallen op momenten die draaien om het plot.
 
-### Regels die ik in eerste instantie **niet** toevoeg, maar waar we het nog een keer over kunnen hebben
+
+
+## Regels die we niet doen
+Deze regels doen we in eerste instantie **niet**, maar waar we het nog een keer over kunnen hebben.
 
 ##### Grazing hit
 Als je met een attack precies de AC raakt, wordt dit een grazing hit: de hit doet dan maar de helft van de damage die die normaal zou doen.
