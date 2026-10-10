@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: default
 title: Pages Configuration
-nav_order: 3
+nav_exclude: true
 ---
-
+<!-- 
 # Pages Configuration
 
 Each page in your site can be configured via

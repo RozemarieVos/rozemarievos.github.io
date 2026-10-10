@@ -1,4 +1,4 @@
-<!-- ---
+---
 # This example file is based on index-test.md from Just the Docs Jekyll Theme.
 # Original file copyright (c) 2016 Patrick Marsceill:
 # https://github.com/pmarsceill/just-the-docs/blob/v0.2.7-r/docs/index-test.md
@@ -7,10 +7,10 @@
 layout: default
 title: Markdown Kitchen Sink Example
 excerpt: A sample description for SEO.
-nav_order: 2
+nav_exclude: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~, ***bold and italic***, or ~~**bold strikethrough**~~.
+<!-- Text can be **bold**, _italic_, ~~strikethrough~~, ***bold and italic***, or ~~**bold strikethrough**~~.
 
 Inline code `looks like this`.
 

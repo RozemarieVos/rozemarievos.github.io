@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
 title: Install Theme In A Jekyll Project
-nav_order: 2
+nav_exclude: true
 ---
 
-# Install Theme In A Jekyll Project
+<!-- # Install Theme In A Jekyll Project
 
 This theme is not published as a Gem. Instead, you can use it in your Jekyll
 project via the `jekyll-remote-theme` plugin, which allows you to use any

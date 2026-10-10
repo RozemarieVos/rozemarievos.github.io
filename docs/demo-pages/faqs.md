@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
 title: What is All This? (FAQs)
-nav_order: 4
+nav_exclude: true
 ---
 
-# What is All This? (FAQs)
+<!-- # What is All This? (FAQs)
 
 ## What is Jekyll, Read The Docs, GitHub Pages or why do I need to know any of this?
 

@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
 title: Debug Config
-nav_order: 5
+nav_exclude: true
 ---
 
-# 🐛 Debug Config
+<!-- # 🐛 Debug Config
 
 This theme repository includes a **debug utility page** that prints every
 Jekyll, Liquid, and GitHub Pages variable available at build time, together

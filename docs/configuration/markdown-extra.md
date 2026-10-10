@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
 title: Additional Markdown Features
-nav_order: 1
+nav_exclude: true
 ---
 
-# Additional Markdown Features
+<!-- # Additional Markdown Features
 
 ## Admonitions
 

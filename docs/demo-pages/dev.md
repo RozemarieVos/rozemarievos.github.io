@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
 title: Developer Docs
-nav_order: 3
+nav_exclude: true
 ---
 
-# Developer Documentation
+<!-- # Developer Documentation
 
 This page is meant for developers who want to contribute to the development
 of this theme or build their own customisations.

@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: default
 title: Theme Configuration
-nav_order: 2
+nav_exclude: true
 ---
 
-# Theme Configuration
+<!-- # Theme Configuration
 
 This theme is configured via your Jekyll or GitHub Pages' `_config.yml` file.
 Below are the standard Jekyll options and the theme-specific settings
