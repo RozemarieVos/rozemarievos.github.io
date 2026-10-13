@@ -8,7 +8,7 @@ nav_order: 1
 Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign! Deze week komt er nog meer informatie!
 
 ## Wereldkaart
-![Ardhuin regio](assets/img/Ardhuin%20regio%2028-08.jpg)
+![Ardhuin regio](assets/img/Spelerkaart%2013_10.jpg.jpg)
 
 ## Documenten
 [Regels:](docs/Extra%regels.md) hier staan alle custom regels die we gebruiken.
