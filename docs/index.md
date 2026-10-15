@@ -7,7 +7,12 @@ nav_order: 1
 # Homepage
 Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign! Deze week komt er nog meer informatie!
 
-## Wereldkaart
+## Wereldkaarten
+
+### Wereldkaart met namen
+![Ardhuin regio](assets/img/Bekende%20wereld%20met%20namen.jpg)
+
+### Wereldkaart zonder namen
 ![Ardhuin regio](assets/img/Bekende%20wereld.jpg)
 
 ## Documenten
