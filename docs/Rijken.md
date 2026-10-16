@@ -18,6 +18,7 @@ nav_order: 2
 </style>
 
 # Rijken
+
 ## Ardhuin
 Er is veel ongerepte natuur. Aan de kustgebieden is goed te leven, maar het is lastig om dieper het land in te komen, terwijl daar juist veel van de artefacten zouden zijn. De inheemse bevolking is dunbevolkt en leeft over het algemeen in dorpen die slechts in connectie staan met de dorpen in de buurt. Voor wat nu verkend is (delen van de kuststreken) is dit de situatie. Wie weet wat er in het diepst van de wildernis is?
 Vooral Narrèn en Quanya zijn zoveel mogelijk mensen aan het mobiliseren om grote gebieden van Ardhuin te veroveren. Ze stichten steden, maar blijven afhankelijk van de OHF voor hun vervoer naar Ardhuin.

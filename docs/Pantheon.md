@@ -17,6 +17,7 @@ nav_order: 3
   h5 + p { margin-top: 0 !important; }
 </style>
 # Goden
+
 ## Crodan
 God van vuur en smeden.
 Crodan is een harde god, volgers moeten zijn waarden naleven of worden verbannen (falen is geen optie). Deze waarden zijn als een pyramide, de onderste drie punten zijn volharding, zelfvoorziening, vakmanschap. Deze drie waarden zijn de basis om vervolgens tot de laatste waarde te komen: dienstbaarheid. Eerst moet men meester worden van de drie basis waarden, voordat men (vanuit deze waarden) echt dienstbaar kan zijn.
@@ -63,4 +64,5 @@ Godin van de dualiteit.
 - Teken: dikke munt met twee kanten: 
 	- Sleep van de pauw: licht, leven, trots.
 	- Hoofd van de aasgier: duisternis, dood, nederigheid.
+
 Volgers geloven dat de aanbidders van de andere kant slecht zijn en ze zijn daarom in constant conflict. Beide geloven dat hun religieuze macht invloed heeft op Yllin zelf: als de cult van de pauw meer volgers (en toegewijdere volgers) heeft dan die van de aasgier, zal de pauw in Yllin de overhand hebben (en andersom). Als de ene cult de andere compleet vernietigt, zal het dier van de overgebleven cult in Yllin als enige overblijven: als de cult van de aasgier de cult van de pauw vernietigt, zal alleen de aasgier overblijven, en zal Yllin veranderen in de god van de kenmerken van de aasgier: duisternis, dood, nederigheid.
