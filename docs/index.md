@@ -4,8 +4,34 @@ title: Homepage
 nav_order: 1
 ---
 
+<style>
+  h1 { margin-bottom: 0.2em !important; }
+  h1 + p { margin-top: 0 !important; }
+  h2 { margin-bottom: 0.2em !important; }
+  h2 + p { margin-top: 0 !important; }
+  h3 { margin-bottom: 0.2em !important; }
+  h3 + p { margin-top: 0 !important; }
+  h4 { margin-bottom: 0.2em !important; }
+  h4 + p { margin-top: 0 !important; }
+  h5 { margin-bottom: 0.2em !important; }
+  h5 + p { margin-top: 0 !important; }
+</style>
+
+
 # Homepage
-Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign! Deze week komt er nog meer informatie!
+Dit is de website die ik (enigszins) up to date zal houden met alle informatie die jullie nodig hebben voor de campaign! Hou de website in de gaten voor nieuwe updates.
+
+## Setting
+De wereld is oud en magie is veel aanwezig. Er is een pantheon (zie pagina pantheon). Deze goden hebben invloed op de wereld, maar bemoeien zich liever op een indirecte manier met de wereld.
+Er zijn twee soorten magische artefacten te vinden op Ardhuin:
+1. Artefacten met natuurmagie.
+2. Artefacten die afstammen uit een lang verloren antiek rijk. Dit antieke rijk heette Ardhuin.
+
+Alle races en classes zijn beschikbaar, de norm is officiële D&D content, maar in overleg is homebrew ook mogelijk.
+
+### De wereld
+Drie jaar geleden is er plotseling een enorm eiland verschenen in de buurt van Dun'geal, Narrèn en Pyrhion. Al snel begon men de overeenkomsten te zien met een bijna vergeten rijk: Ardhuin. Dit rijk, wat slechts in de oudste mythen voorkomt, zou een welvarend en technologisch geavanceerd rijk zijn. Totdat het gehele eiland plotseling verdween en nooit meer terugkwam. Door de verschijning van dit eiland kwam er een tsunami die vooral Narrèn heftig raakte. Er zijn nieuwe stranden ontstaan, gebieden en zelfs steden zijn compleet verzwolgen door de oceaan. Door het zoute water dat over vele akkers ging, raakten velden verzilt. Ook werden opslagschuren en het voedsel dat op het veld stond verloren.  Veel van de akkers beginnen zich weer te herstellen, maar dit is nog niet genoeg om iedereen van te voeden. De getroffen gebieden hebben tot op heden een tekort aan eten of betalen torenhoge prijzen om genoeg voedsel te importeren.
+Veel wezens vluchten naar minder heftig getroffen gebieden, zoeken hun geluk op Ardhuin, of proberen bij de Onafhankelijke Handel Federatie (OHF) hun brood te verdienen. Alle rijken, landen en grote instanties hebben hun eigen ideeën over wat ze met dit nieuw verschenen land zouden kunnen doen. Ook klinkt dit land als de perfecte plek om een nieuw leven op te bouwen. Er komen inmiddels langzaam verhalen terug van de eerste pioniers: nergens hebben ze grond gezien die zo vruchtbaar is, ook zijn er bijzondere artefacten te vinden als je je diep genoeg in de wildernis waagt. Her en der wordt er ook gesproken over de grote en gevaarlijke monsters die zich dieper landinwaarts schuil zouden houden. Maar zo erg kan het toch niet zijn? Dit zegt men vast alleen maar om anderen af te schrikken, ze willen vast het eiland voor zichzelf houden.
 
 ## Wereldkaarten
 
@@ -17,6 +43,10 @@ Dit is de website die ik (enigszins) up to date zal houden met alle informatie d
 
 ## Documenten
 [Regels:](docs/Extra%regels.md) hier staan alle custom regels die we gebruiken.
+
+[Verschillende rijken:](docs/Rijken.md) hier kan je informatie vinden over de verschillende rijken en gebieden.
+
+[Pantheon:](docs/Pantheon.md) hier kan je informatie vinden over de verschillende goden in deze wereld.
 
 [Session 0 informatie:](docs/Session%0.md) dit is de informatie die ik gegeven heb tijdens session 0. Dit bestand is niet up to date met nieuwe toevoegingen.
 

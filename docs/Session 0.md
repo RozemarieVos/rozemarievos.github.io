@@ -1,13 +1,22 @@
 ---
 layout: default
 title: Session 0
-nav_order: 3
+nav_order: 5
 ---
 
 <style>
+  h1 { margin-bottom: 0.2em !important; }
+  h1 + p { margin-top: 0 !important; }
+  h2 { margin-bottom: 0.2em !important; }
+  h2 + p { margin-top: 0 !important; }
+  h3 { margin-bottom: 0.2em !important; }
+  h3 + p { margin-top: 0 !important; }
+  h4 { margin-bottom: 0.2em !important; }
+  h4 + p { margin-top: 0 !important; }
   h5 { margin-bottom: 0.2em !important; }
   h5 + p { margin-top: 0 !important; }
 </style>
+
 # Session 0
 ## Algemeen
 ##### Setting
